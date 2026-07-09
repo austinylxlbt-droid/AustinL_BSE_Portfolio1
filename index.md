@@ -45,7 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/3o0YcmSlRyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The inchworm robot is made up of the motors, the parts that move, the Arduino and breadboard, where the code and circutry is, and the chassis, the bady of the Inchworm.  I have made the motors move in the way the motor would move later. The motors were moving in a weird order, but with an arrangement of delay, I got it to work. Next, I would use 3D-printing to make the bady or chassis of the inchworm, before putting it all together.
 
