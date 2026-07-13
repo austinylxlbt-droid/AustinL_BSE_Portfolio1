@@ -114,32 +114,14 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Amount** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|:--:|
-| Arduino Nano |  | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Small Breadboard |  | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 9v Battery w/ Pigtail Connector |  | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Micro Servos |  | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 3D Printed Parts |  | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Weatherseal |  | A grip  for the feet | $10.27 | <a href="https://www.homedepot.com/p/Frost-King-5-16-in-x-1-4-in-x-17-ft-White-D-Center-EPDM-Medium-Gap-Weatherseal-Tape-V25WA/100017014"> Link </a> |
-| Zipties |  | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Wires |  | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-
-Arduino Nano x1
-
-Mini breadboard x1
-
-9v battery (and pigtail connector) x1
-
-Micro servos x3
-
-Light-weight foam material or a 3d printer to make the body
-
-Grippy substance to add friction (I used weatherseal but even things like cabinet stoppers would work)
-
-Wax paper (may not be necessary in all cases, but it aids the sliding motion by decreasing friction)
-
-Zipties x3 (depending on length - doubling up may be necessary)
-
-Lots of wires
+| Arduino Nano | 1 | The microcontroller, computer, or brain of the project  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Small Breadboard | 1 | Connecting the Arduino's signals and power to the rest of the project | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 9v Battery w/ Pigtail Connector | 1 | The power supply for removal of cable | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Micro Servos | 3 | Motors for movement | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 3D Printed Parts |  | The body the componets move and sit on | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Weatherseal | 1 | A grip for the feet | $10.27 | <a href="https://www.homedepot.com/p/Frost-King-5-16-in-x-1-4-in-x-17-ft-White-D-Center-EPDM-Medium-Gap-Weatherseal-Tape-V25WA/100017014"> Link </a> |
+| Zipties | 3 | Securing the servos to the body | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Wires | 11 | connecting power and signals between parts | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
