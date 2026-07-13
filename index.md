@@ -66,7 +66,7 @@ void setup() {
   motor1.attach(7);
   motor1.write(45);
   motor2.attach(6);
-  motor2.write(45);
+  motor2.write(70);
   delay(1000);
 }
 
@@ -89,7 +89,7 @@ void close() {
 
 void open() {
   delay(500);
-  motor.write(90);
+  motor.write(45);
   delay(500);
 }
 
