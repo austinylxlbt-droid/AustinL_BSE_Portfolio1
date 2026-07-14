@@ -33,19 +33,23 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-Nej1nZgww?si=CaFHTCXpC0QC5G-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
+-   
 - What has been surprising about the project so far
+-   
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+-   
+- What needs to be completed before your final milestone
+-   
 
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3o0YcmSlRyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The inchworm robot is made up of the motors, the parts that move, the Arduino and breadboard, where the code and circutry is, and the chassis, the bady of the Inchworm.  I have made the motors move in the way the motor would move later. The motors were moving in a weird order, but with an arrangement of delay, I got it to work. Next, I would use 3D-printing to make the bady or chassis of the inchworm, before putting it all together.
+The inchworm robot is made up of the motors, the parts that move, the Arduino and breadboard, where the code and circutry is, and the chassis, the body of the Inchworm.  I have made the motors move in the way the motor would move later. The motors were moving in a weird order, but with an arrangement of delay, I got it to work. Next, I would use 3D-printing to make the body or chassis of the inchworm, before putting it all together.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
@@ -121,7 +125,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | 3D Printed Parts |  | The body the componets move and sit on | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Weatherseal | 1 | A grip for the feet | $10.27 | <a href="https://www.homedepot.com/p/Frost-King-5-16-in-x-1-4-in-x-17-ft-White-D-Center-EPDM-Medium-Gap-Weatherseal-Tape-V25WA/100017014"> Link </a> |
 | Zipties | 3 | Securing the servos to the body | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Wires | 11 | connecting power and signals between parts | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Wires | 11 | Connecting power and signals between parts | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
