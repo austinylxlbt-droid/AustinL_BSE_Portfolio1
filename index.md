@@ -35,15 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-Nej1nZgww?si=CaFHTCXpC0QC5G-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
--   
-- What has been surprising about the project so far
--   
-- Previous challenges you faced that you overcame
--   
-- What needs to be completed before your final milestone
--   
+I have put together the parts in the  project. Many of my parts were different from the usaul parts. The motors, in particlar, were incompatable with the horns that attach them to the body. I had to use hot glue and other techniques to fix this. This is troubleshooting. I will need to make the robot able to close.
 
 # First Milestone
 
@@ -70,7 +62,7 @@ void setup() {
   motor1.attach(7);
   motor1.write(45);
   motor2.attach(6);
-  motor2.write(70);
+  motor2.write(45);
   delay(1000);
 }
 
@@ -93,13 +85,13 @@ void close() {
 
 void open() {
   delay(500);
-  motor.write(45);
+  motor.write(90);
   delay(500);
 }
 
 void front() {
   delay(500);
-  motor2.write(0);
+  motor2.write(30);
   motor1.write(90);
   delay(500);
 }
@@ -107,7 +99,7 @@ void front() {
 void back() {
   delay(500);
   motor2.write(90);
-  motor1.write(0);
+  motor1.write(30);
   delay(500);
 }
 ```
