@@ -79,12 +79,16 @@ void loop() {
 
 void close() {
   delay(500);
-  motor.write(0);
+  motor.write(60);
+  delay(500);
+  motor.write(90);
   delay(500);
 }
 
 void open() {
   delay(500);
+  motor.write(120);
+  delay(100);
   motor.write(90);
   delay(500);
 }
