@@ -58,11 +58,11 @@ Servo motor2;
 
 void setup() {
   motor.attach(8);
-  motor.write(90);
+  motor.write(100);
   motor1.attach(7);
   motor1.write(45);
   motor2.attach(6);
-  motor2.write(45);
+  motor2.write(60);
   delay(1000);
 }
 
@@ -79,31 +79,27 @@ void loop() {
 
 void close() {
   delay(500);
-  motor.write(60);
-  delay(500);
-  motor.write(90);
+  motor.write(100);
   delay(500);
 }
 
 void open() {
   delay(500);
   motor.write(120);
-  delay(100);
-  motor.write(90);
   delay(500);
 }
 
 void front() {
   delay(500);
-  motor2.write(30);
-  motor1.write(90);
+  motor2.write(75);
+  motor1.write(60);
   delay(500);
 }
 
 void back() {
   delay(500);
-  motor2.write(90);
-  motor1.write(30);
+  motor2.write(105);
+  motor1.write(40);
   delay(500);
 }
 ```
