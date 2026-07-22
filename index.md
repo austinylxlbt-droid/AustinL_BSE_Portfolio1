@@ -58,50 +58,57 @@ Servo motor2;
 
 void setup() {
   motor.attach(8);
-  motor.write(100);
+  motor.write(90);
   motor1.attach(7);
-  motor1.write(45);
+  motor1.write(55);
   motor2.attach(6);
-  motor2.write(60);
+  motor2.write(70);
   delay(1000);
 }
 
 void loop() {
   front();
-  delay(500);
+  delay(200);
   open();
-  delay(500);
+  delay(200);
   back();
-  delay(500);
+  delay(200);
   close();
-  delay(500);
+  delay(200);
 }
 
 void close() {
-  delay(500);
-  motor.write(100);
-  delay(500);
+  delay(200);
+  for (int i = 120; i >= 70; i -= 10) {
+    motor.write(i);
+    delay(100);
+    }
+  delay(200);
 }
 
 void open() {
-  delay(500);
-  motor.write(120);
-  delay(500);
+  delay(200);
+  for (int i = 90; i <= 100; i += 5) {
+    motor.write(i);
+    delay(200);
+  }
+  delay(200);
 }
 
 void front() {
-  delay(500);
-  motor2.write(75);
-  motor1.write(60);
-  delay(500);
+  delay(200);
+  motor2.write(45);
+  motor1.write(90);
+  delay(200);
 }
 
 void back() {
-  delay(500);
+  delay(200);
   motor2.write(105);
-  motor1.write(40);
-  delay(500);
+  motor1.write(45);
+  delay(200);
 }
+
 ```
 
 # Bill of Materials
