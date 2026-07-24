@@ -79,33 +79,31 @@ void loop() {
 
 void close() {
   delay(200);
-  for (int i = 120; i >= 70; i -= 10) {
-    motor.write(i);
-    delay(100);
-    }
+  motor.write(0);
+  delay(500);
+  motor.write(90);
   delay(200);
 }
 
 void open() {
   delay(200);
-  for (int i = 90; i <= 100; i += 5) {
-    motor.write(i);
-    delay(200);
-  }
+  motor.write(100);
+  delay(200);
+  motor.write(90);
   delay(200);
 }
 
 void front() {
   delay(200);
+  motor1.write(90); 
   motor2.write(45);
-  motor1.write(90);
   delay(200);
 }
 
 void back() {
   delay(200);
-  motor2.write(105);
-  motor1.write(45);
+  motor1.write(45); 
+  motor2.write(135);
   delay(200);
 }
 
