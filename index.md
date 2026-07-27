@@ -21,13 +21,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
-
+The robot is completed. I replaced the motors to fit the horns, and adjusted the code to make it work. My biggest challenges involve motors. The motors had a defect, like not fitting the horns, being too weak, or functioning differently. I altered the motors, as well as the code. I learned about Arduino microcontrollers and Servo motors, and I hope to learn more about remote control or remote sensing.
 
 # Second Milestone
 
@@ -57,6 +51,7 @@ Servo motor1;
 Servo motor2;
 
 void setup() {
+  delay(1000);
   motor.attach(8);
   motor.write(90);
   motor1.attach(7);
@@ -68,45 +63,44 @@ void setup() {
 
 void loop() {
   front();
-  delay(200);
+  delay(50);
   open();
-  delay(200);
+  delay(50);
   back();
-  delay(200);
+  delay(50);
   close();
-  delay(200);
+  delay(50);
 }
 
 void close() {
-  delay(200);
+  delay(50);
   motor.write(0);
   delay(500);
   motor.write(90);
-  delay(200);
+  delay(50);
 }
 
 void open() {
-  delay(200);
+  delay(50);
   motor.write(100);
   delay(200);
   motor.write(90);
-  delay(200);
+  delay(50);
 }
 
 void front() {
-  delay(200);
+  delay(50);
   motor1.write(90); 
   motor2.write(45);
-  delay(200);
+  delay(50);
 }
 
 void back() {
-  delay(200);
+  delay(50);
   motor1.write(45); 
   motor2.write(135);
-  delay(200);
+  delay(50);
 }
-
 ```
 
 # Bill of Materials
