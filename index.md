@@ -18,9 +18,7 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AVximU8iAQ?si=WktEF0cOeeXZzi6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The robot is completed. I replaced the motors to fit the horns, and adjusted the code to make it work. My biggest challenges involve motors. The motors had a defect, like not fitting the horns, being too weak, or functioning differently. I altered the motors, as well as the code. I learned about Arduino microcontrollers and Servo motors, and I hope to learn more about remote control or remote sensing.
 
