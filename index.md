@@ -1,5 +1,6 @@
 # Inchworm Robot
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! 
+Throughout the making of my inchworm robot, I 
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -24,8 +25,6 @@ You should comment out all portions of your portfolio that you have not complete
 The robot is completed. I replaced the motors to fit the horns, and adjusted the code to make it work. My biggest challenges involve motors. The motors had a defect, like not fitting the horns, being too weak, or functioning differently. I altered the motors, as well as the code. I learned about Arduino microcontrollers and Servo motors, and I hope to learn more about remote control or remote sensing.
 
 # Second Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-Nej1nZgww?si=CaFHTCXpC0QC5G-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
