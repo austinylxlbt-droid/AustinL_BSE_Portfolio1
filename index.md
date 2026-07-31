@@ -110,6 +110,6 @@ void back() {
 | Wires | 11 | Connecting power and signals between parts | $9.99 | <a href="https://www.amazon.com/BOJACK-Values-Solderless-Breadboard-Flexible/dp/B08Y59P6D1/ref=sr_1_7_sspa?crid=34T7ND7XL7E5G&dib=eyJ2IjoiMSJ9.EQvCK09g_r0CejNbKABqFcXKydXK1tmlZ6l7WbJ6SayOBgx6k72RgbTq8ALmsR8fuKqWTcDHIONZTFwHWQTSXqFZKRWeFiMr0ZWgxwKeqF4KLTkd0Wi--bj5_eaTL04mU7c54GYE9rKIKlK8IXUK_iElWSE3xZ3CSCog_Hsxg8XrTrp0Im9U0OghvKkRWx7pwmL7zR1lOzH2VTnJVpXXGlIiQVQUrRdLmRr-QWQAJoc.JeXO8lM-MSfWieY4YRAqKp7R5yruiddh5wigP8ECTl0&dib_tag=se&keywords=small%2Bbreadboard&qid=1785341065&sprefix=small%2Bbread%2Caps%2C171&sr=8-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1"> Link </a> |
 
 # Other Resources/Examples
-- [Tutorial](https://www.instructables.com/Inchworm-Robot/)
-- [Video](https://drive.google.com/file/d/1owv1sC_y5wuZAV9WUPZ92nTpaJ3zJj_i/view?t=4.946)
+- [Tutorial for Making an Inchworm Robot](https://www.instructables.com/Inchworm-Robot/)
+- [Video of Inchworm Moving](https://drive.google.com/file/d/1owv1sC_y5wuZAV9WUPZ92nTpaJ3zJj_i/view?t=4.946)
 - [Servo Motor Guide](https://arduinogetstarted.com/tutorials/arduino-servo-motor)
