@@ -5,7 +5,8 @@ An inchworm moves differently from any other object, moving by opening and closi
 |:--:|:--:|:--:|:--:|
 | Austin L | Lynbrook High School | Mechanical Engineering | Incoming Freshman |
 
-<img width="575" height="384" alt="Screenshot 2026-07-31 at 10 03 19 AM" src="https://github.com/user-attachments/assets/06d97280-07a5-429b-9f63-91c4108d8214" />
+<img width="575" height="384" alt="Screenshot 2026-07-31 at 10 03 19 AM" src="https://github.com/user-attachments/assets/06d97280-07a5-429b-9f63-91c4108d8214" /><img width="146" height="146" alt="Screenshot 2026-07-31 101654" src="https://github.com/user-attachments/assets/8d9f7f35-547f-4dc5-a200-d66fb857b1dd" />
+
 
 # Final Milestone
 
@@ -17,7 +18,7 @@ The robot is completed. I replaced the motors to fit the horns, and adjusted the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-Nej1nZgww?si=CaFHTCXpC0QC5G-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I have put together the parts in the  project. Many of my parts were different from the usaul parts. The motors, in particlar, were incompatable with the horns that attach them to the body. I had to use hot glue and other techniques to fix this. This is troubleshooting. I will need to make the robot able to close.
+I have put together the parts in the  project. Many of my parts were different from the usual parts. The motors, in particlar, were incompatable with the horns that attach them to the body. I had to use hot glue and other techniques to fix this. This is troubleshooting. I will need to make the robot able to close.
 
 # First Milestone
 
