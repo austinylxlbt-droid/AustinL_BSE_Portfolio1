@@ -1,4 +1,3 @@
-<img width="1150" height="768" alt="0" src="https://github.com/user-attachments/assets/d094f3db-c134-446a-9780-14008bc23bc1" />
 # Inchworm Robot
 An inchworm moves differently from any other object, moving by opening and closing with Servo motors. I made the inchworm robot, but not without many roadblocks and challenges along the way.
 
