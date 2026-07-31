@@ -5,7 +5,8 @@ An inchworm moves differently from any other object, moving by opening and closi
 |:--:|:--:|:--:|:--:|
 | Austin L | Lynbrook High School | Mechanical Engineering | Incoming Freshman |
 
-<img width="575" height="384" alt="Screenshot 2026-07-31 at 10 03 19 AM" src="https://github.com/user-attachments/assets/06d97280-07a5-429b-9f63-91c4108d8214" /><img width="146" height="146" alt="Screenshot 2026-07-31 101654" src="https://github.com/user-attachments/assets/8d9f7f35-547f-4dc5-a200-d66fb857b1dd" />
+<img width="575" height="384" alt="Screenshot 2026-07-31 at 10 03 19 AM" src="https://github.com/user-attachments/assets/06d97280-07a5-429b-9f63-91c4108d8214" />
+<img width="146" height="146" alt="Screenshot 2026-07-31 101654" src="https://github.com/user-attachments/assets/8d9f7f35-547f-4dc5-a200-d66fb857b1dd" />
 
 
 # Final Milestone
