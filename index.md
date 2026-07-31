@@ -1,3 +1,4 @@
+<img width="1150" height="768" alt="0" src="https://github.com/user-attachments/assets/d094f3db-c134-446a-9780-14008bc23bc1" />
 # Inchworm Robot
 An inchworm moves differently from any other object, moving by opening and closing with Servo motors. I made the inchworm robot, but not without many roadblocks and challenges along the way.
 
@@ -5,8 +6,8 @@ An inchworm moves differently from any other object, moving by opening and closi
 |:--:|:--:|:--:|:--:|
 | Austin L | Lynbrook High School | Mechanical Engineering | Incoming Freshman |
 
-![Headstone Image](logo.svg)
-  
+<img width="575" height="384" alt="Screenshot 2026-07-31 at 10 03 19 AM" src="https://github.com/user-attachments/assets/06d97280-07a5-429b-9f63-91c4108d8214" />
+
 # Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AVximU8iAQ?si=WktEF0cOeeXZzi6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
