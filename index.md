@@ -111,3 +111,5 @@ void back() {
 
 # Other Resources/Examples
 [Tutorial](https://www.instructables.com/Inchworm-Robot/)
+[Video](https://drive.google.com/file/d/1owv1sC_y5wuZAV9WUPZ92nTpaJ3zJj_i/view?t=4.946)
+[Servo Motor Guide](https://arduinogetstarted.com/tutorials/arduino-servo-motor)
