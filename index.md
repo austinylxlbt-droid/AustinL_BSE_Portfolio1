@@ -1,18 +1,9 @@
 # Inchworm Robot
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! 
-Throughout the making of my inchworm robot, I 
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+An inchworm moves differently from any other object, moving by opening and closing with Servo motors. I made the inchworm robot, but not without many roadblocks and challenges along the way.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Austin L | Lynbrook High School | Mechanical Engineering | Incoming Freshman |
-
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
   
@@ -35,13 +26,10 @@ I have put together the parts in the  project. Many of my parts were different f
 The inchworm robot is made up of the motors, the parts that move, the Arduino and breadboard, where the code and circutry is, and the chassis, the body of the Inchworm.  I have made the motors move in the way the motor would move later. The motors were moving in a weird order, but with an arrangement of delay, I got it to work. Next, I would use 3D-printing to make the body or chassis of the inchworm, before putting it all together.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
-![Schematic1](/AustinL_BSE_Portfolio1/assets/Screenshot 2026-07-30 114548.png)
-![Schematic2](/AustinL_BSE_Portfolio1/assets/Screenshot 2026-07-30 120212.png)
-
+<img width="497" height="254" alt="Screenshot 2026-07-30 114548" src="https://github.com/user-attachments/assets/f9c63965-bb70-4af7-8b1a-4fba63c6f186" />
+<img width="368" height="490" alt="Screenshot 2026-07-30 120212" src="https://github.com/user-attachments/assets/57a70c45-5afc-4379-9f31-832878a53727" />
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
 #include <Servo.h>
@@ -104,8 +92,6 @@ void back() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Amount** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|:--:|
@@ -122,9 +108,4 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Wires | 11 | Connecting power and signals between parts | $9.99 | <a href="https://www.amazon.com/BOJACK-Values-Solderless-Breadboard-Flexible/dp/B08Y59P6D1/ref=sr_1_7_sspa?crid=34T7ND7XL7E5G&dib=eyJ2IjoiMSJ9.EQvCK09g_r0CejNbKABqFcXKydXK1tmlZ6l7WbJ6SayOBgx6k72RgbTq8ALmsR8fuKqWTcDHIONZTFwHWQTSXqFZKRWeFiMr0ZWgxwKeqF4KLTkd0Wi--bj5_eaTL04mU7c54GYE9rKIKlK8IXUK_iElWSE3xZ3CSCog_Hsxg8XrTrp0Im9U0OghvKkRWx7pwmL7zR1lOzH2VTnJVpXXGlIiQVQUrRdLmRr-QWQAJoc.JeXO8lM-MSfWieY4YRAqKp7R5yruiddh5wigP8ECTl0&dib_tag=se&keywords=small%2Bbreadboard&qid=1785341065&sprefix=small%2Bbread%2Caps%2C171&sr=8-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
+[Tutorial](https://www.instructables.com/Inchworm-Robot/)
